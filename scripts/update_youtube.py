@@ -118,12 +118,11 @@ def main():
             "seconds": duration_seconds,
         }
 
-        title = (snippet.get("title") or "").lower()
-        desc = (snippet.get("description") or "").lower()
-
         # Best-effort Shorts heuristic:
-        # YouTube's Data API does not expose a dedicated "is_short" flag.
-        if duration_seconds <= 180 and ("#shorts" in title or "#shorts" in desc):
+        # classify videos up to 3 minutes as Shorts
+        # and exclude them from the regular videos list
+        if duration_seconds <= 180:
+            entry["url"] = entry["short_url"]
             shorts.append(entry)
         else:
             videos.append(entry)
