@@ -1,7 +1,38 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "",
-  "videos": [],
+  "last_updated": "2026-04-19 10:34 UTC",
+  "videos": [
+    {
+      "id": "HtaFQXZZZLw",
+      "title": "המשחק הזה היה הרבה יותר מטורף ממה שחשבתי | Brawlhalla",
+      "url": "https://www.youtube.com/watch?v=HtaFQXZZZLw",
+      "short_url": "https://www.youtube.com/shorts/HtaFQXZZZLw",
+      "thumbnail": "https://i.ytimg.com/vi/HtaFQXZZZLw/hqdefault.jpg",
+      "published": "2026-04-18T10:36:48Z",
+      "duration": "16:41",
+      "seconds": 1001
+    },
+    {
+      "id": "nVeAJY61w40",
+      "title": "כל תרומה שווה ריקוד מטורף, ירינוב מסביר את השיטה",
+      "url": "https://www.youtube.com/watch?v=nVeAJY61w40",
+      "short_url": "https://www.youtube.com/shorts/nVeAJY61w40",
+      "thumbnail": "https://i.ytimg.com/vi/nVeAJY61w40/hqdefault.jpg",
+      "published": "2026-04-18T10:18:15Z",
+      "duration": "0:21",
+      "seconds": 21
+    },
+    {
+      "id": "zW3QhDgMhGQ",
+      "title": "ניסיתי לעשות ניתוח לב וזה הסתבך",
+      "url": "https://www.youtube.com/watch?v=zW3QhDgMhGQ",
+      "short_url": "https://www.youtube.com/shorts/zW3QhDgMhGQ",
+      "thumbnail": "https://i.ytimg.com/vi/zW3QhDgMhGQ/hqdefault.jpg",
+      "published": "2026-04-16T10:11:57Z",
+      "duration": "20:38",
+      "seconds": 1238
+    }
+  ],
   "shorts": []
 }
