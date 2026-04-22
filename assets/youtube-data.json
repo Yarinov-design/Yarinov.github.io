@@ -1,8 +1,18 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-04-22 06:26 UTC",
+  "last_updated": "2026-04-22 10:49 UTC",
   "videos": [
+    {
+      "id": "NZTMHSPRvbQ",
+      "title": "אתגרתי את קרייבון ל1V1 ברובלוקס",
+      "url": "https://www.youtube.com/watch?v=NZTMHSPRvbQ",
+      "short_url": "https://www.youtube.com/shorts/NZTMHSPRvbQ",
+      "thumbnail": "https://i.ytimg.com/vi/NZTMHSPRvbQ/hqdefault.jpg",
+      "published": "2026-04-22T08:43:34Z",
+      "duration": "15:58",
+      "seconds": 958
+    },
     {
       "id": "VghZiWYr4ls",
       "title": "זה המשחק הכי מפגר ששיחקתי בחיים שלי",
@@ -22,19 +32,19 @@
       "published": "2026-04-18T10:36:48Z",
       "duration": "16:41",
       "seconds": 1001
-    },
-    {
-      "id": "zW3QhDgMhGQ",
-      "title": "ניסיתי לעשות ניתוח לב וזה הסתבך",
-      "url": "https://www.youtube.com/watch?v=zW3QhDgMhGQ",
-      "short_url": "https://www.youtube.com/shorts/zW3QhDgMhGQ",
-      "thumbnail": "https://i.ytimg.com/vi/zW3QhDgMhGQ/hqdefault.jpg",
-      "published": "2026-04-16T10:11:57Z",
-      "duration": "20:38",
-      "seconds": 1238
     }
   ],
   "shorts": [
+    {
+      "id": "1FK2lTKwVYE",
+      "title": "הבוס האדום הזה הופיע משום מקום!",
+      "url": "https://www.youtube.com/shorts/1FK2lTKwVYE",
+      "short_url": "https://www.youtube.com/shorts/1FK2lTKwVYE",
+      "thumbnail": "https://i.ytimg.com/vi/1FK2lTKwVYE/hqdefault.jpg",
+      "published": "2026-04-22T08:43:04Z",
+      "duration": "0:22",
+      "seconds": 22
+    },
     {
       "id": "XkoaznMdt5o",
       "title": "יארינוב נלחם בסירי",
@@ -54,16 +64,6 @@
       "published": "2026-04-18T10:18:15Z",
       "duration": "0:21",
       "seconds": 21
-    },
-    {
-      "id": "Y3_PHm48nzo",
-      "title": "לא תאמינו נו מה עשיתי למטופל שלי?!",
-      "url": "https://www.youtube.com/shorts/Y3_PHm48nzo",
-      "short_url": "https://www.youtube.com/shorts/Y3_PHm48nzo",
-      "thumbnail": "https://i.ytimg.com/vi/Y3_PHm48nzo/hqdefault.jpg",
-      "published": "2026-04-15T14:20:16Z",
-      "duration": "0:50",
-      "seconds": 50
     }
   ]
 }
