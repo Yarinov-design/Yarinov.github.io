@@ -1,8 +1,18 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-04-30 08:39 UTC",
+  "last_updated": "2026-04-30 15:29 UTC",
   "videos": [
+    {
+      "id": "q-pfE2d45Ig",
+      "title": "5 צופים שולטים באותו בן אדם וזה נגמר רע",
+      "url": "https://www.youtube.com/watch?v=q-pfE2d45Ig",
+      "short_url": "https://www.youtube.com/shorts/q-pfE2d45Ig",
+      "thumbnail": "https://i.ytimg.com/vi/q-pfE2d45Ig/hqdefault.jpg",
+      "published": "2026-04-30T09:47:21Z",
+      "duration": "31:15",
+      "seconds": 1875
+    },
     {
       "id": "ZP01U96v-v0",
       "title": "ברחתי מחדר מלא כפתורים?! | Place",
@@ -22,19 +32,29 @@
       "published": "2026-04-27T20:08:36Z",
       "duration": "55:52",
       "seconds": 3352
-    },
-    {
-      "id": "NZTMHSPRvbQ",
-      "title": "אתגרתי את קרייבון ל1V1 ברובלוקס",
-      "url": "https://www.youtube.com/watch?v=NZTMHSPRvbQ",
-      "short_url": "https://www.youtube.com/shorts/NZTMHSPRvbQ",
-      "thumbnail": "https://i.ytimg.com/vi/NZTMHSPRvbQ/hqdefault.jpg",
-      "published": "2026-04-22T08:43:34Z",
-      "duration": "15:58",
-      "seconds": 958
     }
   ],
   "shorts": [
+    {
+      "id": "VnsU-Wf5JRE",
+      "title": "המשחק הזה כל כך קשה!?!",
+      "url": "https://www.youtube.com/shorts/VnsU-Wf5JRE",
+      "short_url": "https://www.youtube.com/shorts/VnsU-Wf5JRE",
+      "thumbnail": "https://i.ytimg.com/vi/VnsU-Wf5JRE/hqdefault.jpg",
+      "published": "2026-04-30T09:24:39Z",
+      "duration": "0:30",
+      "seconds": 30
+    },
+    {
+      "id": "sNEOE8SXW_k",
+      "title": "אני והצופים כמעט הצלחנו !!!!?!",
+      "url": "https://www.youtube.com/shorts/sNEOE8SXW_k",
+      "short_url": "https://www.youtube.com/shorts/sNEOE8SXW_k",
+      "thumbnail": "https://i.ytimg.com/vi/sNEOE8SXW_k/hqdefault.jpg",
+      "published": "2026-04-30T09:24:31Z",
+      "duration": "0:26",
+      "seconds": 26
+    },
     {
       "id": "LWxvAhydw9o",
       "title": "מה קורה פה?!",
@@ -44,26 +64,6 @@
       "published": "2026-04-28T19:15:13Z",
       "duration": "0:20",
       "seconds": 20
-    },
-    {
-      "id": "ZLj66QZjPwo",
-      "title": "מה זה הדבר הזה?!",
-      "url": "https://www.youtube.com/shorts/ZLj66QZjPwo",
-      "short_url": "https://www.youtube.com/shorts/ZLj66QZjPwo",
-      "thumbnail": "https://i.ytimg.com/vi/ZLj66QZjPwo/hqdefault.jpg",
-      "published": "2026-04-28T19:09:40Z",
-      "duration": "0:18",
-      "seconds": 18
-    },
-    {
-      "id": "EqfTQ_y6sr0",
-      "title": "בגידה בשידור חי! ירינוב נגד מרקו",
-      "url": "https://www.youtube.com/shorts/EqfTQ_y6sr0",
-      "short_url": "https://www.youtube.com/shorts/EqfTQ_y6sr0",
-      "thumbnail": "https://i.ytimg.com/vi/EqfTQ_y6sr0/hqdefault.jpg",
-      "published": "2026-04-27T20:19:38Z",
-      "duration": "0:31",
-      "seconds": 31
     }
   ]
 }
