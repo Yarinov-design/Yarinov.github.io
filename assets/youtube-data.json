@@ -1,8 +1,18 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-05-05 07:33 UTC",
+  "last_updated": "2026-05-05 11:52 UTC",
   "videos": [
+    {
+      "id": "ipZGA8dZmyM",
+      "title": "שיחקתי עם מיכאל IGZ ב Airport Security Sucks וזה נהיה כאוס",
+      "url": "https://www.youtube.com/watch?v=ipZGA8dZmyM",
+      "short_url": "https://www.youtube.com/shorts/ipZGA8dZmyM",
+      "thumbnail": "https://i.ytimg.com/vi/ipZGA8dZmyM/hqdefault.jpg",
+      "published": "2026-05-05T11:20:21Z",
+      "duration": "38:39",
+      "seconds": 2319
+    },
     {
       "id": "q-pfE2d45Ig",
       "title": "5 צופים שולטים באותו בן אדם וזה נגמר רע",
@@ -22,19 +32,29 @@
       "published": "2026-04-28T14:49:04Z",
       "duration": "19:05",
       "seconds": 1145
-    },
-    {
-      "id": "9pe0Y3DWIU4",
-      "title": "המשחק הזה גרם לי לאבד את זה | Crab Game",
-      "url": "https://www.youtube.com/watch?v=9pe0Y3DWIU4",
-      "short_url": "https://www.youtube.com/shorts/9pe0Y3DWIU4",
-      "thumbnail": "https://i.ytimg.com/vi/9pe0Y3DWIU4/hqdefault.jpg",
-      "published": "2026-04-27T20:08:36Z",
-      "duration": "55:52",
-      "seconds": 3352
     }
   ],
   "shorts": [
+    {
+      "id": "moswlrGye3Q",
+      "title": "ירינוב מפוצץ את מיכאל עם רקטה",
+      "url": "https://www.youtube.com/shorts/moswlrGye3Q",
+      "short_url": "https://www.youtube.com/shorts/moswlrGye3Q",
+      "thumbnail": "https://i.ytimg.com/vi/moswlrGye3Q/hqdefault.jpg",
+      "published": "2026-05-05T11:20:51Z",
+      "duration": "0:26",
+      "seconds": 26
+    },
+    {
+      "id": "HdUKZANWneQ",
+      "title": "ירינוב מפוצץ את עצמו לחתיכות",
+      "url": "https://www.youtube.com/shorts/HdUKZANWneQ",
+      "short_url": "https://www.youtube.com/shorts/HdUKZANWneQ",
+      "thumbnail": "https://i.ytimg.com/vi/HdUKZANWneQ/hqdefault.jpg",
+      "published": "2026-05-05T11:20:36Z",
+      "duration": "0:17",
+      "seconds": 17
+    },
     {
       "id": "_SvdArl7IR0",
       "title": "ירינוב מנסה לנצח",
@@ -44,26 +64,6 @@
       "published": "2026-05-01T14:54:30Z",
       "duration": "0:12",
       "seconds": 12
-    },
-    {
-      "id": "rkQfLmjY_08",
-      "title": "הצופים שלי מתעצבנים על חבר שלי",
-      "url": "https://www.youtube.com/shorts/rkQfLmjY_08",
-      "short_url": "https://www.youtube.com/shorts/rkQfLmjY_08",
-      "thumbnail": "https://i.ytimg.com/vi/rkQfLmjY_08/hqdefault.jpg",
-      "published": "2026-05-01T14:52:18Z",
-      "duration": "0:19",
-      "seconds": 19
-    },
-    {
-      "id": "VnsU-Wf5JRE",
-      "title": "המשחק הזה כל כך קשה!?!",
-      "url": "https://www.youtube.com/shorts/VnsU-Wf5JRE",
-      "short_url": "https://www.youtube.com/shorts/VnsU-Wf5JRE",
-      "thumbnail": "https://i.ytimg.com/vi/VnsU-Wf5JRE/hqdefault.jpg",
-      "published": "2026-04-30T09:24:39Z",
-      "duration": "0:30",
-      "seconds": 30
     }
   ]
 }
