@@ -1,8 +1,18 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-05-05 23:35 UTC",
+  "last_updated": "2026-05-06 15:53 UTC",
   "videos": [
+    {
+      "id": "z17pPRY2zbs",
+      "title": "כל העצים במשחק הזה שונאים אותך",
+      "url": "https://www.youtube.com/watch?v=z17pPRY2zbs",
+      "short_url": "https://www.youtube.com/shorts/z17pPRY2zbs",
+      "thumbnail": "https://i.ytimg.com/vi/z17pPRY2zbs/hqdefault.jpg",
+      "published": "2026-05-06T09:00:20Z",
+      "duration": "22:59",
+      "seconds": 1379
+    },
     {
       "id": "ipZGA8dZmyM",
       "title": "שיחקתי עם מיכאל IGZ ב Airport Security Sucks וזה נהיה כאוס",
@@ -22,48 +32,38 @@
       "published": "2026-04-30T09:47:21Z",
       "duration": "31:15",
       "seconds": 1875
-    },
-    {
-      "id": "ZP01U96v-v0",
-      "title": "ברחתי מחדר מלא כפתורים?! | Place",
-      "url": "https://www.youtube.com/watch?v=ZP01U96v-v0",
-      "short_url": "https://www.youtube.com/shorts/ZP01U96v-v0",
-      "thumbnail": "https://i.ytimg.com/vi/ZP01U96v-v0/hqdefault.jpg",
-      "published": "2026-04-28T14:49:04Z",
-      "duration": "19:05",
-      "seconds": 1145
     }
   ],
   "shorts": [
     {
-      "id": "moswlrGye3Q",
-      "title": "ירינוב מפוצץ את מיכאל עם רקטה",
-      "url": "https://www.youtube.com/shorts/moswlrGye3Q",
-      "short_url": "https://www.youtube.com/shorts/moswlrGye3Q",
-      "thumbnail": "https://i.ytimg.com/vi/moswlrGye3Q/hqdefault.jpg",
-      "published": "2026-05-05T11:20:51Z",
-      "duration": "0:26",
-      "seconds": 26
+      "id": "m5Y9P0t_kOw",
+      "title": "ירינוב מנסה לעשות ספידראן",
+      "url": "https://www.youtube.com/shorts/m5Y9P0t_kOw",
+      "short_url": "https://www.youtube.com/shorts/m5Y9P0t_kOw",
+      "thumbnail": "https://i.ytimg.com/vi/m5Y9P0t_kOw/hqdefault.jpg",
+      "published": "2026-05-06T09:01:05Z",
+      "duration": "0:22",
+      "seconds": 22
     },
     {
-      "id": "HdUKZANWneQ",
-      "title": "ירינוב מפוצץ את עצמו לחתיכות",
-      "url": "https://www.youtube.com/shorts/HdUKZANWneQ",
-      "short_url": "https://www.youtube.com/shorts/HdUKZANWneQ",
-      "thumbnail": "https://i.ytimg.com/vi/HdUKZANWneQ/hqdefault.jpg",
-      "published": "2026-05-05T11:20:36Z",
+      "id": "Qm2QSifDPu0",
+      "title": "שיחקתי במשחק שכל העצים שם שונאים אותי",
+      "url": "https://www.youtube.com/shorts/Qm2QSifDPu0",
+      "short_url": "https://www.youtube.com/shorts/Qm2QSifDPu0",
+      "thumbnail": "https://i.ytimg.com/vi/Qm2QSifDPu0/hqdefault.jpg",
+      "published": "2026-05-06T09:00:57Z",
+      "duration": "1:01",
+      "seconds": 61
+    },
+    {
+      "id": "cFXJ-xM2mXc",
+      "title": "ירינוב בורח מהעצים",
+      "url": "https://www.youtube.com/shorts/cFXJ-xM2mXc",
+      "short_url": "https://www.youtube.com/shorts/cFXJ-xM2mXc",
+      "thumbnail": "https://i.ytimg.com/vi/cFXJ-xM2mXc/hqdefault.jpg",
+      "published": "2026-05-06T09:00:53Z",
       "duration": "0:17",
       "seconds": 17
-    },
-    {
-      "id": "_SvdArl7IR0",
-      "title": "ירינוב מנסה לנצח",
-      "url": "https://www.youtube.com/shorts/_SvdArl7IR0",
-      "short_url": "https://www.youtube.com/shorts/_SvdArl7IR0",
-      "thumbnail": "https://i.ytimg.com/vi/_SvdArl7IR0/hqdefault.jpg",
-      "published": "2026-05-01T14:54:30Z",
-      "duration": "0:12",
-      "seconds": 12
     }
   ]
 }
