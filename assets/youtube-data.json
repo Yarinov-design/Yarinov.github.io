@@ -1,8 +1,18 @@
 {
   "channel_handle": "@Yarinov_Clips2009",
   "channel_url": "https://www.youtube.com/@Yarinov_Clips2009",
-  "last_updated": "2026-05-13 08:20 UTC",
+  "last_updated": "2026-05-13 16:40 UTC",
   "videos": [
+    {
+      "id": "3CXi2EANySA",
+      "title": "אני אווטאר קורה",
+      "url": "https://www.youtube.com/watch?v=3CXi2EANySA",
+      "short_url": "https://www.youtube.com/shorts/3CXi2EANySA",
+      "thumbnail": "https://i.ytimg.com/vi/3CXi2EANySA/hqdefault.jpg",
+      "published": "2026-05-13T08:21:31Z",
+      "duration": "1:06:46",
+      "seconds": 4006
+    },
     {
       "id": "z17pPRY2zbs",
       "title": "כל העצים במשחק הזה שונאים אותך",
@@ -22,16 +32,6 @@
       "published": "2026-05-05T11:20:21Z",
       "duration": "38:39",
       "seconds": 2319
-    },
-    {
-      "id": "q-pfE2d45Ig",
-      "title": "5 צופים שולטים באותו בן אדם וזה נגמר רע",
-      "url": "https://www.youtube.com/watch?v=q-pfE2d45Ig",
-      "short_url": "https://www.youtube.com/shorts/q-pfE2d45Ig",
-      "thumbnail": "https://i.ytimg.com/vi/q-pfE2d45Ig/hqdefault.jpg",
-      "published": "2026-04-30T09:47:21Z",
-      "duration": "31:15",
-      "seconds": 1875
     }
   ],
   "shorts": [
